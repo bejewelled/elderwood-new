@@ -1,0 +1,1 @@
+<div class='wrapper'>This is the home page.</div>

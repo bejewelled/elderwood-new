@@ -1,0 +1,484 @@
+Total time: 1310.050247s
+Iterations: 3,750,000
+ 
+----------- 1 dice -----------
+The most common combination was [('six', 625369)].
+List of all combinations: 
+six:  625369 (16.677%) 
+
+
+Style points Gained: 
+minimum:    1.0
+low 1%:     1.0
+low 10%:    1.0
+low 25%:    1.0
+average:    1.1667650666666667
+high 25%:   1.0
+high 10%:   2.0
+high 1%:    2.0
+high 0.1%:  2.0
+high 0.01%: 2.0
+maximum: 2
+
+
+Rarity Modifier Score: 
+minimum:    0.0
+low 1%:     0.0
+low 10%:    0.0
+low 25%:    0.0
+average:    0.16676506666666666
+high 25%:   0.0
+high 10%:   1.0
+high 1%:    1.0
+high 0.1%:  1.0
+high 0.01%: 1.0
+maximum: 1
+Rarity Tier Breakdown: 
+regular: 3750000 (0.01%) 
+ 
+ 
+----------- 2 dice -----------
+The most common combination was [('six', 1043093), ('2k', 624755)].
+List of all combinations: 
+six:  1043093 (27.816%) 
+2k:  624755 (16.66%) 
+
+
+Style points Gained: 
+minimum:    1.0
+low 1%:     1.0
+low 10%:    1.0
+low 25%:    1.0
+average:    1.6113608
+high 25%:   2.0
+high 10%:   3.0
+high 1%:    3.0
+high 0.1%:  3.0
+high 0.01%: 3.0
+maximum: 3
+
+
+Rarity Modifier Score: 
+minimum:    0.0
+low 1%:     0.0
+low 10%:    0.0
+low 25%:    0.0
+average:    0.6113608
+high 25%:   1.0
+high 10%:   2.0
+high 1%:    2.0
+high 0.1%:  2.0
+high 0.01%: 2.0
+maximum: 2
+Rarity Tier Breakdown: 
+glowing: 624755 (0.002%) 
+regular: 3125245 (0.008%) 
+ 
+ 
+----------- 3 dice -----------
+The most common combination was [('2k', 1565023), ('six', 1042008), ('3k', 104022)].
+List of all combinations: 
+2k:  1565023 (41.734%) 
+six:  1042008 (27.787%) 
+3k:  104022 (2.774%) 
+
+
+Style points Gained: 
+minimum:    1.0
+low 1%:     1.0
+low 10%:    1.0
+low 25%:    1.0
+average:    2.2512437333333333
+high 25%:   3.0
+high 10%:   3.0
+high 1%:    6.0
+high 0.1%:  6.0
+high 0.01%: 6.0
+maximum: 6
+
+
+Rarity Modifier Score: 
+minimum:    0.0
+low 1%:     0.0
+low 10%:    0.0
+low 25%:    0.0
+average:    1.1957653333333333
+high 25%:   2.0
+high 10%:   2.0
+high 1%:    3.0
+high 0.1%:  3.0
+high 0.01%: 3.0
+maximum: 3
+Rarity Tier Breakdown: 
+glowing: 1669045 (0.004%) 
+regular: 2080955 (0.006%) 
+ 
+ 
+----------- 4 dice -----------
+The most common combination was [('2k', 2346206), ('six', 692450), ('3k', 347603), ('2_2k', 261239), ('3s', 138584), ('4k', 17255)].
+List of all combinations: 
+2k:  2346206 (62.565%) 
+six:  692450 (18.465%) 
+3k:  347603 (9.269%) 
+2_2k:  261239 (6.966%) 
+3s:  138584 (3.696%) 
+4k:  17255 (0.46%) 
+
+
+Style points Gained: 
+minimum:    1.0
+low 1%:     1.0
+low 10%:    2.0
+low 25%:    2.0
+average:    3.6600914666666666
+high 25%:   3.0
+high 10%:   6.0
+high 1%:    12.0
+high 0.1%:  12.0
+high 0.01%: 12.0
+maximum: 12
+
+
+Rarity Modifier Score: 
+minimum:    0.0
+low 1%:     0.0
+low 10%:    1.0
+low 25%:    1.0
+average:    1.9872469333333334
+high 25%:   2.0
+high 10%:   4.0
+high 1%:    5.0
+high 0.1%:  5.0
+high 0.01%: 5.0
+maximum: 5
+Rarity Tier Breakdown: 
+celestial: 382337 (0.001%) 
+glowing: 2398228 (0.006%) 
+regular: 969435 (0.003%) 
+ 
+ 
+----------- 5 dice -----------
+The most common combination was [('2k', 2604545), ('2_2k', 868074), ('3k', 723894), ('six', 288803), ('3s', 121205), ('4k', 72182), ('4s', 17334), ('5k', 2941)].
+List of all combinations: 
+2k:  2604545 (69.455%) 
+2_2k:  868074 (23.149%) 
+3k:  723894 (19.304%) 
+six:  288803 (7.701%) 
+3s:  121205 (3.232%) 
+4k:  72182 (1.925%) 
+4s:  17334 (0.462%) 
+5k:  2941 (0.078%) 
+
+
+Style points Gained: 
+minimum:    1.0
+low 1%:     1.0
+low 10%:    3.0
+low 25%:    3.0
+average:    5.987448533333334
+high 25%:   12.0
+high 10%:   12.0
+high 1%:    24.0
+high 0.1%:  24.0
+high 0.01%: 30.0
+maximum: 30
+
+
+Rarity Modifier Score: 
+minimum:    0.0
+low 1%:     0.0
+low 10%:    2.0
+low 25%:    2.0
+average:    2.7261632
+high 25%:   4.0
+high 10%:   4.0
+high 1%:    6.0
+high 0.1%:  7.0
+high 0.01%: 8.0
+maximum: 8
+Rarity Tier Breakdown: 
+glowing: 2371850 (0.006%) 
+regular: 323311 (0.001%) 
+celestial: 1051898 (0.003%) 
+radiant: 2941 (0.0%) 
+ 
+ 
+----------- 6 dice -----------
+The most common combination was [('2k', 2314535), ('2_2k', 1300699), ('3k', 1181407), ('4k', 181228), ('3_2k', 144697), ('3s', 134048), ('six', 57877), ('2_3k', 24159), ('4s', 15546), ('5k', 14473), ('5s', 1918), ('6k', 480)].
+List of all combinations: 
+2k:  2314535 (61.721%) 
+2_2k:  1300699 (34.685%) 
+3k:  1181407 (31.504%) 
+4k:  181228 (4.833%) 
+3_2k:  144697 (3.859%) 
+3s:  134048 (3.575%) 
+six:  57877 (1.543%) 
+2_3k:  24159 (0.644%) 
+4s:  15546 (0.415%) 
+5k:  14473 (0.386%) 
+5s:  1918 (0.051%) 
+6k:  480 (0.013%) 
+
+
+Style points Gained: 
+minimum:    2
+low 1%:     2.0
+low 10%:    3.0
+low 25%:    6.0
+average:    9.498932266666667
+high 25%:   12.0
+high 10%:   12.0
+high 1%:    36.0
+high 0.1%:  96.0
+high 0.01%: 120.0
+maximum: 120
+
+
+Rarity Modifier Score: 
+minimum:    1
+low 1%:     1.0
+low 10%:    2.0
+low 25%:    3.0
+average:    3.5212066666666666
+high 25%:   4.0
+high 10%:   5.0
+high 1%:    8.0
+high 0.1%:  10.0
+high 0.01%: 12.0
+maximum: 12
+Rarity Tier Breakdown: 
+celestial: 1702967 (0.005%) 
+glowing: 1941455 (0.005%) 
+radiant: 52182 (0.0%) 
+regular: 53396 (0.0%) 
+ 
+ 
+----------- 7 dice -----------
+The most common combination was [('2k', 1721605), ('3k', 1631897), ('2_2k', 1181500), ('3_2k', 506604), ('4k', 351442), ('3s', 143194), ('2_3k', 112622), ('5k', 42160), ('4s', 16737), ('6k', 2810), ('5s', 1738), ('6s', 166), ('7k', 86)].
+List of all combinations: 
+2k:  1721605 (45.909%) 
+3k:  1631897 (43.517%) 
+2_2k:  1181500 (31.507%) 
+3_2k:  506604 (13.509%) 
+4k:  351442 (9.372%) 
+3s:  143194 (3.819%) 
+2_3k:  112622 (3.003%) 
+5k:  42160 (1.124%) 
+4s:  16737 (0.446%) 
+6k:  2810 (0.075%) 
+5s:  1738 (0.046%) 
+6s:  166 (0.004%) 
+7k:  86 (0.002%) 
+
+
+Style points Gained: 
+minimum:    3
+low 1%:     3.0
+low 10%:    6.0
+low 25%:    6.0
+average:    14.7293736
+high 25%:   12.0
+high 10%:   36.0
+high 1%:    48.0
+high 0.1%:  120.0
+high 0.01%: 288.0
+maximum: 600
+
+
+Rarity Modifier Score: 
+minimum:    2
+low 1%:     2.0
+low 10%:    3.0
+low 25%:    3.0
+average:    4.413190666666667
+high 25%:   5.0
+high 10%:   7.0
+high 1%:    9.0
+high 0.1%:  12.0
+high 0.01%: 12.0
+maximum: 25
+Rarity Tier Breakdown: 
+glowing: 1484317 (0.004%) 
+celestial: 2065883 (0.006%) 
+radiant: 199714 (0.001%) 
+ascendant: 86 (0.0%) 
+ 
+ 
+----------- 8 dice -----------
+The most common combination was [('3k', 1964692), ('2k', 1096482), ('2_2k', 1070450), ('3_2k', 674900), ('4k', 584455), ('2_3k', 299486), ('3s', 150861), ('5k', 94265), ('4_2k', 83994), ('4s', 17819), ('6k', 9579), ('2_4k', 2380), ('5s', 1920), ('7k', 517), ('6s', 170), ('8k', 10)].
+List of all combinations: 
+3k:  1964692 (52.392%) 
+2k:  1096482 (29.24%) 
+2_2k:  1070450 (28.545%) 
+3_2k:  674900 (17.997%) 
+4k:  584455 (15.585%) 
+2_3k:  299486 (7.986%) 
+3s:  150861 (4.023%) 
+5k:  94265 (2.514%) 
+4_2k:  83994 (2.24%) 
+4s:  17819 (0.475%) 
+6k:  9579 (0.255%) 
+2_4k:  2380 (0.063%) 
+5s:  1920 (0.051%) 
+7k:  517 (0.014%) 
+6s:  170 (0.005%) 
+8k:  10 (0.0%) 
+
+
+Style points Gained: 
+minimum:    6
+low 1%:     6.0
+low 10%:    6.0
+low 25%:    12.0
+average:    27.716298666666667
+high 25%:   30.0
+high 10%:   36.0
+high 1%:    300.0
+high 0.1%:  600.0
+high 0.01%: 720.0
+maximum: 4000
+
+
+Rarity Modifier Score: 
+minimum:    3
+low 1%:     3.0
+low 10%:    3.0
+low 25%:    4.0
+average:    5.6053288
+high 25%:   7.0
+high 10%:   9.0
+high 1%:    17.0
+high 0.1%:  20.0
+high 0.01%: 25.0
+maximum: 50
+Rarity Tier Breakdown: 
+radiant: 491519 (0.001%) 
+glowing: 937029 (0.002%) 
+celestial: 2236875 (0.006%) 
+mythical: 84050 (0.0%) 
+:   10 (0.0%) 
+ascendant: 517 (0.0%) 
+ 
+ 
+----------- 9 dice -----------
+The most common combination was [('3k', 2094544), ('2_2k', 1283445), ('4k', 863650), ('2k', 590894), ('2_3k', 561794), ('3_2k', 506093), ('4_2k', 253862), ('5k', 175378), ('3s', 158597), ('6k', 23402), ('4s', 19055), ('2_4k', 14011), ('3_3k', 12442), ('5s', 2087), ('7k', 2035), ('6s', 159), ('8k', 95), ('9k', 2)].
+List of all combinations: 
+3k:  2094544 (55.855%) 
+2_2k:  1283445 (34.225%) 
+4k:  863650 (23.031%) 
+2k:  590894 (15.757%) 
+2_3k:  561794 (14.981%) 
+3_2k:  506093 (13.496%) 
+4_2k:  253862 (6.77%) 
+5k:  175378 (4.677%) 
+3s:  158597 (4.229%) 
+6k:  23402 (0.624%) 
+4s:  19055 (0.508%) 
+2_4k:  14011 (0.374%) 
+3_3k:  12442 (0.332%) 
+5s:  2087 (0.056%) 
+7k:  2035 (0.054%) 
+6s:  159 (0.004%) 
+8k:  95 (0.003%) 
+9k:  2 (0.0%) 
+
+
+Style points Gained: 
+minimum:    6
+low 1%:     6.0
+low 10%:    12.0
+low 25%:    24.0
+average:    51.1115248
+high 25%:   36.0
+high 10%:   72.0
+high 1%:    300.0
+high 0.1%:  600.0
+high 0.01%: 2400.0
+maximum: 50000
+
+
+Rarity Modifier Score: 
+minimum:    3
+low 1%:     3.0
+low 10%:    5.0
+low 25%:    5.0
+average:    7.1137376
+high 25%:   8.0
+high 10%:   10.0
+high 1%:    17.0
+high 0.1%:  21.0
+high 0.01%: 25.0
+maximum: 100
+Rarity Tier Breakdown: 
+celestial: 2112955 (0.006%) 
+radiant: 1052282 (0.003%) 
+glowing: 315648 (0.001%) 
+mythical: 266983 (0.001%) 
+ascendant: 2035 (0.0%) 
+:   97 (0.0%) 
+ 
+ 
+----------- 10 dice -----------
+The most common combination was [('3k', 1984229), ('4k', 1164839), ('2_2k', 1073726), ('2_3k', 811504), ('3_2k', 632730), ('5k', 292830), ('2k', 253213), ('4_2k', 210940), ('3s', 166090), ('3_3k', 62736), ('6k', 48888), ('2_4k', 47229), ('5_2k', 42273), ('4s', 19570), ('7k', 5584), ('5s', 2076), ('8k', 401), ('2_5k', 224), ('6s', 166), ('9k', 15), ('10k', 1)].
+List of all combinations: 
+3k:  1984229 (52.913%) 
+4k:  1164839 (31.062%) 
+2_2k:  1073726 (28.633%) 
+2_3k:  811504 (21.64%) 
+3_2k:  632730 (16.873%) 
+5k:  292830 (7.809%) 
+2k:  253213 (6.752%) 
+4_2k:  210940 (5.625%) 
+3s:  166090 (4.429%) 
+3_3k:  62736 (1.673%) 
+6k:  48888 (1.304%) 
+2_4k:  47229 (1.259%) 
+5_2k:  42273 (1.127%) 
+4s:  19570 (0.522%) 
+7k:  5584 (0.149%) 
+5s:  2076 (0.055%) 
+8k:  401 (0.011%) 
+2_5k:  224 (0.006%) 
+6s:  166 (0.004%) 
+9k:  15 (0.0%) 
+10k:  1 (0.0%) 
+
+
+Style points Gained: 
+minimum:    12
+low 1%:     12.0
+low 10%:    12.0
+low 25%:    24.0
+average:    122.59472266666667
+high 25%:   72.0
+high 10%:   144.0
+high 1%:    4500.0
+high 0.1%:  4500.0
+high 0.01%: 18000.0
+maximum: 1000000
+
+
+Rarity Modifier Score: 
+minimum:    5
+low 1%:     5.0
+low 10%:    5.0
+low 25%:    5.0
+average:    8.523455466666666
+high 25%:   9.0
+high 10%:   13.0
+high 1%:    32.0
+high 0.1%:  32.0
+high 0.01%: 50.0
+maximum: 200
+Rarity Tier Breakdown: 
+radiant: 1908072 (0.005%) 
+celestial: 1511678 (0.004%) 
+mythical: 281704 (0.001%) 
+ascendant: 48129 (0.0%) 
+:   417 (0.0%) 
+
+
+Style multiplier curve across dice totals: 
+[1.167, 1.611, 2.251, 3.66, 5.987, 9.499, 14.729, 27.716, 51.112, 122.595]
+Rarity multiplier curve across dice totals: 
+[0.167, 0.611, 1.196, 1.987, 2.726, 3.521, 4.413, 5.605, 7.114, 8.523]

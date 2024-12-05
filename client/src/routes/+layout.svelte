@@ -1,11 +1,18 @@
+<svelte:head>
+	<meta name="description" content="About this app" />
+	<link href='https://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
+</svelte:head>
 <div class="app">
 
+
+	<main>
+		<slot />
+	</main>
 
 </div>
 
 <script>
-	import './styles.css';
-	
+  import "../app.css";
 </script>
 
 <style>
