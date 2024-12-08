@@ -8,7 +8,6 @@ const fs = require('fs')
 
 const http = require('http')
 
-const mongoStore = require('connect-mongo')
 
 const socketIO = require('socket.io');
 const server = http.createServer(app)
@@ -24,24 +23,6 @@ const mongoose = require('mongoose')
 
 //const redis = require('./database/redis')
 
-const cc = require('./database/redis')
-
-const sessionConfig = session({
-    secret: 'q6dskP3DccphawY55VErTENu9sKe9v23',
-    cookie: {
-        httpOnly: false,
-        secure:  false, 
-        sameSite: 'lax',
-        maxAge: 1000*60*60*24,
-    },
-    saveUninitialized: false,
-    resave: false,
-    store: mongoStore.create({
-        mongoUrl: process.env.DB_CONNECT_URI,
-    })
-})
-
-app.use(sessionConfig)
 
 
 app.use(cors({
@@ -81,12 +62,9 @@ server.listen(PORT, (error) =>{
 // app.get('/', (req, res) => {
 
 async function dbConnect() {
-    await mongo.connect()
 }
 
 async function startup() {
-    await dbConnect();
-    await chat.initChat();
 }
 
 startup()
@@ -96,7 +74,6 @@ app.post('/register', async (req, res) => {
 
 })
 
-const updater = require('./procedures/updater')
 
 app.post('/login', async (req, res) => {
    
@@ -114,10 +91,12 @@ const {initSocket, getIO} = require('./socket')
 
 const ioLoader = initSocket(server)
 const io = getIO()
-io.engine.use(sessionConfig)
 
 
 io.on('connection', (socket) => {
-   
+   socket.on('test', async () => {
+    console.log('testing')
+    await io.emit('test-back', {})
+   })
 })
 

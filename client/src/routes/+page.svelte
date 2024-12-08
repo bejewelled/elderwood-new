@@ -1,35 +1,23 @@
-<div class="app">
 
-
-</div>
+{x}
 
 <script>
-	import './styles.css';
-	
+    import {setContext, onMount, onDestroy} from 'svelte'
+    import {io} from 'socket.io-client'
+    const socket = io('http://localhost:3000', {
+            transports: ['websocket']
+    })
+    
+    let x = $state('hi')
+    setContext('socket', socket);
+
+    onMount(() => {
+        socket.emit('test')
+
+        socket.on('test-back', () => {
+            console.log('done')
+            x = 'tested!';
+        })
+    })
+    
 </script>
-
-<style>
-	.app {
-		display: flex;
-		flex-direction: column;
-		min-height: 100vh;
-	}
-
-	footer {
-		display: flex;
-		flex-direction: column;
-		justify-content: center;
-		align-items: center;
-		padding: 12px;
-	}
-
-	footer a {
-		font-weight: bold;
-	}
-
-	@media (min-width: 480px) {
-		footer {
-			padding: 12px 0;
-		}
-	}
-</style>
