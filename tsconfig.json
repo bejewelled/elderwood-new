@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "experimentalDecorators": true,
+        "strict": true,
+        "module": "NodeNext",
+        "moduleResolution": "NodeNext",
+        "outDir": "./dist",
+      },
+      "include": [
+        "./**/*"
+      ],
+      "ts-node": {
+        "esm": true, // «———— enabling ESM for ts-node   
+      }, 
+} 
